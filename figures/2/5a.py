@@ -1,3 +1,4 @@
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -6,13 +7,13 @@ import matplotlib.pyplot as plt
 # ============================================================
 
 methods = [
-    "Full DJF",
+    "Full DJA",
     "w/o\nDecomposition",
     "w/o Sequential\nInteraction",
     "w/o Final\nRefinement"
 ]
 
-unified = [64.17, 0.83, 90.83, 89.17]
+unified = [37.50, 0.83, 90.83, 89.17]
 human   = [72.50, 0.00, 25.00, 20.83]
 
 x = np.arange(len(methods))
