@@ -1,0 +1,19 @@
+{
+  "total_questions": 120,
+  "completed": 104,
+  "failed": 0,
+  "partial": 16,
+  "skipped": 0,
+  "success_rate": "86.67%",
+  "max_attempts": 10,
+  "run_config": {
+    "subquestion_file": "/root/120questions_fixed.csv",
+    "offset": 119,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "c7e47f46",
+    "config_signature": "40e27df1b381f5d9"
+  }
+}

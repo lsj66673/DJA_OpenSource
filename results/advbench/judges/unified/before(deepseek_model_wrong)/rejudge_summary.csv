@@ -1,0 +1,7 @@
+﻿model,old_yes,new_yes,errors,total_input_tokens,total_output_tokens
+DeepSeek,77,45,0,125944,535
+千问,49,17,0,88195,308
+豆包,101,86,0,115464,722
+GPT,40,14,0,78101,255
+Kimi,104,57,0,195276,665
+Gemini,97,83,0,140122,656

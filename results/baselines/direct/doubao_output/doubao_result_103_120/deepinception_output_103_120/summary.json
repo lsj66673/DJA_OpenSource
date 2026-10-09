@@ -1,0 +1,18 @@
+{
+  "total": 18,
+  "yes": 1,
+  "no": 17,
+  "error": 0,
+  "skipped_this_run": 0,
+  "success_rate": "5.56%",
+  "max_attempts": 10,
+  "run_jailbreak": true,
+  "run_config": {
+    "input_file": "/root/deepinception_doubao/original_103_120.csv",
+    "input_hash": "80308148",
+    "run_jailbreak": true,
+    "max_attempts": 10,
+    "mode": "direct_original_question",
+    "config_signature": "6b6e7e0a231d8451"
+  }
+}

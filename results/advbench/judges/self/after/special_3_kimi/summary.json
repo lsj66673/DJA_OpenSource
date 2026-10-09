@@ -1,0 +1,19 @@
+{
+  "total_questions": 3,
+  "completed": 2,
+  "failed": 1,
+  "partial": 0,
+  "skipped": 0,
+  "success_rate": "66.67%",
+  "max_attempts": 10,
+  "run_config": {
+    "subquestion_file": "/root/special_3_clean.csv",
+    "offset": 2,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "70ef4ee4",
+    "config_signature": "40e27df1b381f5d9"
+  }
+}
