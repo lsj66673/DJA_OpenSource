@@ -13,7 +13,7 @@ This repository contains the code, experimental data, results, and figures for t
 
 ## Status
 
-This repository is currently being organized and will be updated with additional documentation and reproducibility materials.
+This repository contains the code and materials for our paper. All scripts, figures, and result files have been finalized and are available here.
 
 ## Safety Notice
 
