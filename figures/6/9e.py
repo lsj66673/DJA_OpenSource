@@ -45,16 +45,6 @@ ax.legend(
     fontsize=10
 )
 
-ax.text(
-    0.5, -0.43,
-    "(e) Kimi",
-    transform=ax.transAxes,
-    ha="center",
-    va="top",
-    fontsize=14,
-    fontweight="bold"
-)
-
 plt.subplots_adjust(left=0.14, right=0.98, top=0.97, bottom=0.43)
 
 plt.savefig("Fig_Kimi_Category_K_EN.png",

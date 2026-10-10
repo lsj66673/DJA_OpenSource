@@ -241,22 +241,6 @@ ax.legend(
 )
 
 
-# ============================================================
-# 9. Subfigure title at bottom
-# ============================================================
-
-ax.text(
-    0.5,
-    -0.29,
-    "(a) AdvBench",
-    transform=ax.transAxes,
-    ha="center",
-    va="top",
-    fontsize=15,
-    fontweight="bold",
-    fontfamily="Times New Roman"
-)
-
 
 # ============================================================
 # 10. Layout

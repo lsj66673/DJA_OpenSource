@@ -136,21 +136,6 @@ for bar, value in zip(bars, counts):
     )
 
 
-# ============================================================
-# 10. Subfigure title below the plot
-# ============================================================
-
-ax.text(
-    0.5,
-    -0.20,
-    "(b) JailbreakBench ($N = 54$)",
-    transform=ax.transAxes,
-    ha="center",
-    va="top",
-    fontsize=16,
-    fontfamily="Times New Roman",
-    fontweight="bold"
-)
 
 
 # ============================================================

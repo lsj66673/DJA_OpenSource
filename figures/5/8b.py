@@ -186,21 +186,6 @@ for spine in ax.spines.values():
     spine.set_visible(False)
 
 
-# ============================================================
-# 10. Subfigure title BELOW the plot
-# ============================================================
-
-ax.text(
-    0.5,
-    -0.14,
-    "(b) JBB-Behaviors",
-    transform=ax.transAxes,
-    ha="center",
-    va="top",
-    fontsize=15,
-    fontweight="bold",
-    fontfamily="Times New Roman"
-)
 
 
 # ============================================================

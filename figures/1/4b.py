@@ -152,20 +152,6 @@ ax.legend(
 )
 
 
-# ============================================================
-# 11. Subfigure title BELOW the plot
-# ============================================================
-
-ax.text(
-    0.5,
-    -0.34,
-    "(b) Unified Judge (GPT-5.4-mini)",
-    transform=ax.transAxes,
-    ha="center",
-    va="top",
-    fontsize=14,
-    fontweight="bold"
-)
 
 
 # ============================================================

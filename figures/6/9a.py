@@ -77,16 +77,6 @@ ax.legend(
     fontsize=10
 )
 
-# Subfigure title at the bottom
-ax.text(
-    0.5, -0.43,
-    "(a) DeepSeek",
-    transform=ax.transAxes,
-    ha="center",
-    va="top",
-    fontsize=14,
-    fontweight="bold"
-)
 
 plt.subplots_adjust(
     left=0.14,

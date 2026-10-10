@@ -174,22 +174,6 @@ for spine in ax.spines.values():
     spine.set_visible(False)
 
 
-# ============================================================
-# 10. Subfigure title BELOW the plot
-# ============================================================
-
-ax.text(
-    0.5,
-    -0.18,
-    "(a) AdvBench",
-    transform=ax.transAxes,
-    ha="center",
-    va="top",
-    fontsize=15,
-    fontweight="bold",
-    fontfamily="Times New Roman"
-)
-
 
 # ============================================================
 # 11. Layout
